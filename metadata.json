@@ -1,0 +1,6 @@
+{
+  "name": "Aura Finance",
+  "description": "Premium personal finance, expense tracker, and budget planner with Gemini AI-powered receipt scanning, categorization, and smart financial coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
